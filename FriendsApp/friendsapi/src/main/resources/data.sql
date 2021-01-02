@@ -1,0 +1,5 @@
+insert into Friend values (1, 'Canada', 'Comp Sc', 'ali@mail.com', 'Ali', 'Emmi')
+insert into Friend values (2, 'France', 'Math', 'veli@mail.com', 'Veli', 'Dayi')
+insert into Friend values (3, 'Norway', 'Science', 'mehmet@mail.com', 'Mehmet', 'Amca')
+insert into Friend values (4, 'Spain', 'Biology', 'messi@mail.com', 'Lionel', 'Messi')
+insert into Friend values (5, 'USA', 'Military', 'john@mail.com', 'John', 'Rambo')
